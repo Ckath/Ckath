@@ -4,3 +4,4 @@
 [![rms](https://raw.githubusercontent.com/Ckath/Ckath/master/rms.png)](https://rms.sexy)
 [![debian](https://raw.githubusercontent.com/Ckath/Ckath/master/debian-user.png)](https://www.debian.org)
 [![arch](https://raw.githubusercontent.com/Ckath/Ckath/master/arch.png)](https://archlinux.org)
+[![irc](https://raw.githubusercontent.com/Ckath/Ckath/master/ircworks.gif)](https://rizon.net)
