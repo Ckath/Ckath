@@ -8,3 +8,4 @@
 [![irc](https://raw.githubusercontent.com/Ckath/Ckath/master/ircworks.gif)](https://rizon.net)
 [![neko](https://raw.githubusercontent.com/Ckath/Ckath/master/xn-neko-btn.gif)](https://xn--z7x.xn--6frz82g)
 [![vim_on_fire](https://raw.githubusercontent.com/Ckath/Ckath/master/vim_on_fire.gif)](https://www.vim.org)
+[![piracy](https://raw.githubusercontent.com/Ckath/Ckath/master/piracy.gif)](https://www.youtube.com/watch?v=zsVjCZG4cyI)
