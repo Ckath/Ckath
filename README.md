@@ -10,5 +10,6 @@
 [![vim_on_fire](https://raw.githubusercontent.com/Ckath/Ckath/master/vim_on_fire.gif)](https://www.vim.org)
 [![piracy](https://raw.githubusercontent.com/Ckath/Ckath/master/piracy.gif)](https://www.youtube.com/watch?v=zsVjCZG4cyI)
 [![chrmevil](https://raw.githubusercontent.com/Ckath/Ckath/master/chrmevil.gif)](https://www.mozilla.org/en-US/firefox/new/)
+[![computer](https://raw.githubusercontent.com/Ckath/Ckath/master/computer.gif)](https://en.wikipedia.org/wiki/Desktop_computer)
 [![ascii4ever](https://raw.githubusercontent.com/Ckath/Ckath/master/ascii4ever.gif)](http://textfiles.com)
 [![quake](https://raw.githubusercontent.com/Ckath/Ckath/master/q3a.gif)](https://ioquake3.org/)
